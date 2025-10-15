@@ -1,0 +1,76 @@
+subject,body_text,label
+"Verify your account","Your account has been temporarily suspended. Please verify your details at http://secure-login-update.com.",1
+"KYC Verification Required","Dear SBI Customer, your KYC is pending. Click https://sbi-verify.in to complete now.",1
+"Password Reset Required","Someone tried to access your account. Reset your password here: http://reset-password-security.com.",1
+"Your parcel is on hold","Pay ₹10 handling fee to release your parcel: http://postservice.in/parcel-release.",1
+"Important tax update","Your PAN card is on hold. Update KYC details at http://incometax-update.gov.in.",1
+"Amazon order refund","You have received a refund. Enter your bank details to claim: http://amazon-refund.info.",1
+"Lottery Winner","Congratulations! You’ve won ₹10 lakh. Provide your bank details to claim your prize.",1
+"Credit card blocked","Your HDFC card has been blocked. Verify identity here: http://hdfc-verify.in.",1
+"Urgent payment alert","Your electricity bill is overdue. Pay immediately using this link: http://bescom-pay.in.",1
+"Job opportunity from Google","Dear candidate, apply now by sending ₹500 registration fee to our HR manager.",1
+"Bank update","Your bank has introduced new features. Log in from your account dashboard to explore.",0
+"Meeting schedule","Please find attached the meeting agenda for tomorrow’s discussion.",0
+"Project status","The project documentation has been updated on the shared drive.",0
+"University notice","Examination form submission deadline is 15 March 2025.",0
+"Invoice from Amazon","Your order #AX23901 has been successfully delivered. View invoice attached.",0
+"Weekly newsletter","Here’s your weekly update on technology and innovation news.",0
+"Team outing","Let’s finalize a place for our weekend team outing.",0
+"Payment confirmation","Your payment of ₹1,200 to Zomato has been completed successfully.",0
+"Internship offer","Congratulations! You’ve been selected for the internship program at Infosys.",0
+"Netflix subscription","Your Netflix subscription has been renewed successfully for this month.",0
+"Your account is locked","We detected suspicious activity. Log in to restore access: http://secure-login-helpdesk.net.",1
+"Paytm KYC update","Your Paytm wallet will be blocked if you don’t verify now: http://paytm-kyc.in.",1
+"IRCTC booking issue","Your ticket booking failed. Re-enter your card details to complete payment.",1
+"Apple ID alert","Your Apple ID has been suspended. Re-activate it at http://appleid-recovery.com.",1
+"Google security notice","Your account sign-in attempt failed. Reset password immediately.",1
+"Bank statement","Your bank statement for March 2025 is ready for download.",0
+"Salary credit","Your salary has been credited to your HDFC account.",0
+"Times of India subscription","Thank you for renewing your Times of India digital subscription.",0
+"College event","Join us for TechFest 2025 on 21 February!",0
+"Password change confirmation","Your password was changed successfully. If this wasn’t you, contact support.",0
+"Delivery confirmation","Your Flipkart order has been delivered successfully.",0
+"Airtel offer","Recharge now and get 2 GB extra data free.",0
+"Bank fraud alert","We noticed an unauthorized login attempt. Click here to secure your account: http://bank-fraud-secure.net.",1
+"EPFO update","Your PF withdrawal request is on hold. Verify your Aadhaar now.",1
+"Income Tax refund","Your refund is ready. Provide your bank details to receive ₹4,560.",1
+"PAN verification","Your PAN will be deactivated soon. Update details at http://pan-verify.in.",1
+"Student assignment","Please upload your assignment before the deadline.",0
+"Meeting link","Join the Zoom meeting using the following link: https://zoom.us/j/123456789.",0
+"Attendance report","Monthly attendance report for February attached.",0
+"Medical appointment","Your appointment with Dr Sharma is confirmed for 10 Oct 2025.",0
+"Travel itinerary","Attached are your flight details and hotel booking confirmation.",0
+"Security alert","Your Google Drive files are at risk. Restore immediately: http://drive-secure.com.",1
+"Unusual login","We noticed login attempts from another location. Verify here: http://verify-now.com.",1
+"Delivery issue","Your parcel cannot be delivered. Enter your address again at http://delivery-fix.in.",1
+"Electricity disconnection","Your electricity connection will be disconnected today. Pay ₹100 now.",1
+"Social media verification","Verify your Instagram account to avoid deactivation.",1
+"Contest entry","Participate in our quiz contest to win exciting prizes!",0
+"Office holiday","Office will remain closed on 2 October 2025 for Gandhi Jayanti.",0
+"Library notice","Return your library books before the due date.",0
+"Maintenance notice","Scheduled maintenance on Sunday between 2 AM and 6 AM.",0
+"Campus recruitment","TCS will be conducting recruitment drives next week.",0
+
+
+
+"Join AWS Webinar","Join AWS experts for a live webinar on cloud innovations. Learn directly from AWS architects. Visit https://aws.amazon.com/events/.",0
+"Google Cloud Newsletter","Stay updated with the latest Google Cloud innovations and tutorials. Visit https://cloud.google.com/blog for more.",0
+"LinkedIn Learning Update","Here are new courses recommended for your career growth. Start learning on https://linkedin.com/learning.",0
+"Coursera Weekly Digest","Explore new online courses from top universities. Visit https://coursera.org.",0
+"Microsoft Security Alert","Your Microsoft account was accessed from a new device. If this was you, ignore this message. Otherwise, change your password.",0
+"GitHub Security Newsletter","Learn how to secure your open source projects. Read more on https://github.blog/security/.",0
+"Udemy Promotion","Get 50% off on your next course. Offer valid till midnight. Visit https://udemy.com to learn more.",0
+"Amazon Prime Update","Your Prime Video subscription has been renewed successfully. Enjoy the latest movies on https://primevideo.com.",0
+"Slack Feature Announcement","We’ve added new features to improve your workspace collaboration. Learn more at https://slack.com/blog.",0
+"Spotify Account Notification","Your Spotify Premium payment was successful. Listen now at https://spotify.com.",0
+"Netflix Account Notification","Your Netflix subscription is renewed successfully. Enjoy streaming at https://netflix.com.",0
+"Coursera Event Invite","Join Coursera’s live session on learning analytics this Thursday at 6PM.",0
+"Google Developer Newsletter","Get monthly updates about Android, Flutter, and AI development. Visit https://developer.google.com.",0
+"IBM Tech Event","Join IBM experts live for an AI-powered data analytics session. Visit https://ibm.com/events.",0
+
+
+
+"amazon.com", "aws.amazon.com", "google.com", "microsoft.com",
+    "linkedin.com", "coursera.org", "udemy.com", "ibm.com",
+    "netflix.com", "spotify.com", "slack.com", "github.com",
+    "tenable.com","Activating Your Nessus Essentials License",1

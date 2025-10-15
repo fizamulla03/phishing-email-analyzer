@@ -1,0 +1,3 @@
+subject,body_text,label
+"Verify your account","Please verify your account by clicking http://malicious.example/login","phish"
+"Important update","Dear user, your invoice is attached. Please confirm.","phish"
